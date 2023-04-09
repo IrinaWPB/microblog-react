@@ -1,0 +1,9 @@
+.PostForm {
+    margin: 30px;
+    background-color: rgb(202, 202, 202);
+    padding: 30px;
+}
+
+.PostForm button {
+    margin: 10px;
+}

@@ -1,0 +1,18 @@
+.Blog-main {
+    margin: 30px;
+    background-color: rgb(202, 202, 202);
+    padding: 30px;
+    text-align: center;
+    font-size: 1.3rem;;
+}
+
+.PostTitleCard {
+    background-color: white;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}

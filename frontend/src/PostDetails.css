@@ -1,0 +1,10 @@
+.PostDetails-main {
+    background-color: rgb(202, 202, 202);
+    margin: 30px;
+    padding: 30px;
+}
+
+.PostDetails-btns {
+    float: right;
+    background-color: rgb(93, 93, 93);
+}
